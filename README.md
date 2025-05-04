@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Evolution and Systems Biology.
 - 🌱 I’m currently learning bioinformatics tools and molecular dynamics techniques.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/surya-srikar-a2a798290/) | [Email](mailto:kssrikar4@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/surya-srikar-a2a798290/) | [Email](mailto:kssrikar4@gmail.com)
 - 💡 What drives me: I enjoy solving real-world biological problems.
 - 🎯 Focus: Study the evolution that shape biological systems.
 - ⚡ Fun fact: I once simulated a protein for days just to watch it fold.
