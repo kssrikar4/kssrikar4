@@ -1,12 +1,11 @@
 # 👋 Hi, I’m [Surya Srikar](https://github.com/kssrikar4 )
 
-- 👀 I’m interested in Evolution and Systems Biology.
-- 🌱 I’m currently learning bioinformatics tools and molecular dynamics techniques.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/surya-srikar-a2a798290/) | [Email](mailto:kssrikar4@gmail.com)
-- 💡 What drives me: I enjoy solving real-world biological problems.
-- 🎯 Focus: Study the evolution that shape biological systems.
-- ⚡ Fun fact: I once simulated a protein for days just to watch it fold.
--  💞️ I’m looking to collaborate on open-source projects related to computational biology and data analysis.
+- 🌱 Learning bioinformatics tools and molecular dynamics techniques.
+- 👀 Interested in Evolution and Systems Biology.
+- ⚡ I simulate things. Sometimes, they even converge.
+- 💞️ I’m looking to collaborate on open-source projects related to computational biology and data analysis.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/k-surya-srikar/) | [Email](mailto:kssrikar4@gmail.com)
+
 
 ![cover](https://i0.wp.com/www.artofthecell.com/wp-content/uploads/2014/10/Art-of-the-Cell-RNA-Polymerase.gif?ssl=1)
 
