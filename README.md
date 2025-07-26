@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/k-surya-srikar/) | [Email](mailto:kssrikar4@gmail.com)
 
 
-![cover](https://i0.wp.com/www.artofthecell.com/wp-content/uploads/2014/10/Art-of-the-Cell-RNA-Polymerase.gif?ssl=1)
+![cover](https://wallpapers-clan.com/wp-content/uploads/2024/03/batman-rain-gif-preview-desktop-wallpaper.gif)
 
 <!---
 kssrikar4/kssrikar4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
