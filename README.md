@@ -2,9 +2,9 @@
 
 *Bioinformatics & Computational Biology*
 
-Dedicated to advancing biological insights through computational analysis.
+Advancing biological insights through computational analysis.
 
-* **Get in touch** [LinkedIn](https://www.linkedin.com/in/k-surya-srikar/) | [Email](mailto:kssrikar4@gmail.com)
+* **Get in touch**: [LinkedIn](https://www.linkedin.com/in/k-surya-srikar/) | [Email](mailto:kssrikar4@gmail.com)
 
 
 <img width="640" height="358" alt="key-click-typing" src="https://github.com/user-attachments/assets/15440fd9-24d9-4592-8a50-b96a737e02f4" />
